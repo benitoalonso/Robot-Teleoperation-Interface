@@ -1,3 +1,5 @@
+# README
+
 # Application Launch Instructions
 
 ## Launching the Application
@@ -16,4 +18,4 @@ To use PySimpleGUI, you need to obtain a license key. Please visit the following
 ## Interface Preview 
 
 Below is a screenshot of the application interface when connected to the robot in reql life.
-![Alt text](Images\interfacereal.jpg)
+![Alt text](Images/interfacereal.jpg)
