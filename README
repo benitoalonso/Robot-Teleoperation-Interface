@@ -1,0 +1,7 @@
+Launching Instructions : 
+    Within the main folder, type :  python3 src/map_GUI.py
+
+Requirements : 
+    Please install pacckages from the requirements document
+
+    PySimpleGUI Key License : Go on the website and create an account to key a license key. https://www.pysimplegui.com/
